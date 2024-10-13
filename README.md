@@ -1,4 +1,4 @@
-Hola como estan amigos de github
+Hola como estan amigos de github.
 
-Introduccion:
-Este es un proyecto de prueba.
+Introducción:
+Este es un proyecto de prueba para recodar el uso de ciertas herramientas que brinda GitHub.
