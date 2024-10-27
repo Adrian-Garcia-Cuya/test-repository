@@ -11,3 +11,5 @@ Probando los tags de nuevo xd
 Test
 
 cerrando issue
+
+Cerrando nuevamente el issue reabierto.
